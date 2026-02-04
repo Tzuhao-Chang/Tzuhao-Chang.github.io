@@ -1,5 +1,5 @@
 primary_name: "Zihao Zhang"
-secondary_name: "张梓浩"
+secondary_name: ""
 navbar_name: "Zihao Zhang"
 
 positions:
@@ -11,7 +11,7 @@ positions:
 email: "zzzzzh0707@gmail.com"
 # cv_link: link-to-your-cv-file
 gscholar: 92N9f3QAAAAJ
-github: Ziha0-Zhang
+github: Tzuhao-Chang
 # twitter: your_twitter_id  # Do not include the '@' symbol
 wechat_qrcode: /assets/images/etc/WechatQRcode.png
 wechat_prompt: >-
@@ -22,7 +22,7 @@ linkedin: ziha0-zhang
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a final-year undergraduate student in Computer Science at Sichuan University, Chengdu. I expect to graduate in 2026/06.
+    I am a <strong>final-year</strong> undergraduate student in Computer Science at Sichuan University, Chengdu. I expect to graduate in 2026/06.
   </p>
   <p>
     Currently, I am a Research Intern at <a href="https://www.baai.ac.cn/en/" target="_blank">Beijing Academy of Artificial Intelligence(BAAI)</a>, advised by <a href="https://whatsname1991.github.io/" target="_blank">Prof. Chaozhuo Li</a>, focusing on <strong>Trustworthy AI</strong>.
@@ -39,26 +39,26 @@ short_bio: >-
   </p>
 
 portrait_url: /assets/images/photos/MyPhoto.jpg
-# portrait_caption: >-
-#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_caption: >-
+  Hello, I'm Zihao
+
 
 education:
 - name: Sichuan University
   logo: /assets/images/badges/SCU.png
-  position: BEng., Computer Science
+  position: >-
+    Chengdu, Sichuan <br/>
+    B.Eng. in Computer Science
   date: Sep. 2022 - Jun. 2026 (Expected)
 
-experience:
-- name: Beijing Academy of Artificial Intelligence (BAAI)
-  # logo: /assets/images/badges/BAAI.png
-  position: Research Intern, Trustworthy AI
-  date: Dec. 2025 - present
-- name: IDs-Lab, Sichuan University
-  # logo: /assets/images/badges/ids_lab_logo_name.svg
-  position: Research Intern
-  date: Jul. 2024 - Jul. 2025
 
-awards:
+Internship Experience:
+- name: Beijing Academy of Artificial Intelligence (BAAI)
+  logo: /assets/images/badges/BAAI.png
+  position: Research Intern, Trustworthy AI
+  date: Dec. 2025 - Present
+
+Honors & Awards:
 - name: International Collegiate Programming Contest Asia Regional Contest (Hangzhou) Bronze medal 🥉
   date: Dec. 2023
 - name: China Collegiate Programming Contest (Shenzhen) Bronze medal 🥉
