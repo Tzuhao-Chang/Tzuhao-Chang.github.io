@@ -1,61 +1,67 @@
-primary_name: "Your Name"
-secondary_name: ""
-navbar_name: "Your Name"
+primary_name: "Zihao Zhang"
+secondary_name: "张梓浩"
+navbar_name: "Zihao Zhang"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Research Intern
+- name: Beijing Academy of Artificial Intelligence (BAAI)
+  # logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "zzzzzh0707@gmail.com"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
-# wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
+gscholar: 92N9f3QAAAAJ
+github: Ziha0-Zhang
+# twitter: your_twitter_id  # Do not include the '@' symbol
+wechat_qrcode: /assets/images/etc/WechatQRcode.png
+wechat_prompt: >-
+  For academic inquiries or potential collaborations, please feel free to reach out via WeChat or Email. I look forward to connecting with more people, both professionally and personally.
+linkedin: ziha0-zhang
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a final-year undergraduate student in Computer Science at Sichuan University, Chengdu. I expect to graduate in 2026/06.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    Currently, I am a Research Intern at <a href="https://www.baai.ac.cn/en/" target="_blank">Beijing Academy of Artificial Intelligence(BAAI)</a>, advised by <a href="https://whatsname1991.github.io/" target="_blank">Prof. Chaozhuo Li</a>, focusing on <strong>Trustworthy AI</strong>.
+  </p>
+  <p>
+    My broader research interests include:
+  </p>
+  <ul>
+    <li><strong>Trustworthy AI</strong></li>
+    <li><strong>Agentic Reinforcement Learning</strong></li>
+  </ul>
+  <p>
+    🚩 Seeking Opportunities: I am exploring <strong>2027 Fall PhD</strong> positions across the <strong>US/Singapore/Hong Kong</strong>. I am particularly open to <strong>remote RA</strong> opportunities to build early connections and foster research partnerships. If my background aligns with your group's interests, please feel free to reach out. I would welcome the chance to discuss potential synergies!
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/MyPhoto.jpg
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: Sichuan University
+  logo: /assets/images/badges/SCU.png
+  position: BEng., Computer Science
+  date: Sep. 2022 - Jun. 2026 (Expected)
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Beijing Academy of Artificial Intelligence (BAAI)
+  # logo: /assets/images/badges/BAAI.png
+  position: Research Intern, Trustworthy AI
+  date: Dec. 2025 - present
+- name: IDs-Lab, Sichuan University
+  # logo: /assets/images/badges/ids_lab_logo_name.svg
+  position: Research Intern
+  date: Jul. 2024 - Jul. 2025
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: International Collegiate Programming Contest Asia Regional Contest (Hangzhou) Bronze medal 🥉
+  date: Dec. 2023
+- name: China Collegiate Programming Contest (Shenzhen) Bronze medal 🥉
+  date: Nov. 2023
+- name: International Collegiate Programming Contest Asia Regional Contest (Nanjing) Bronze medal 🥉
+  date: Nov. 2023
