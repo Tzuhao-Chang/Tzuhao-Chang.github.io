@@ -3,8 +3,8 @@ secondary_name: ""
 navbar_name: "Zihao Zhang"
 
 positions:
-- name: Research Intern
-- name: Beijing Academy of Artificial Intelligence (BAAI)
+- logo: /assets/images/badges/BAAI.png
+  name: Research Intern at Beijing Academy of Artificial Intelligence (BAAI)
   # logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
@@ -53,7 +53,7 @@ education:
   date: Sep. 2022 - Jun. 2026 (Expected)
 
 
-internship_experience:
+research_experience:
 - name: Beijing Academy of Artificial Intelligence (BAAI)
   logo: /assets/images/badges/BAAI.png
   position: >-
