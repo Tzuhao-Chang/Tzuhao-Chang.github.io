@@ -6,7 +6,6 @@ pub:            "arXiv preprint"
 pub_date:       "2504.00661"
 cover:          /assets/images/covers/DynMoLE.svg
 authors:
-  - Zihao Zhang
   - Dengchun Li
   - Naizheng Wang
   - Zihao Zhang

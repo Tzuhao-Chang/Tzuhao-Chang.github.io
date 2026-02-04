@@ -25,14 +25,15 @@ short_bio: >-
     I am a <strong>final-year</strong> undergraduate student in Computer Science at Sichuan University, Chengdu. I expect to graduate in 2026/06.
   </p>
   <p>
-    Currently, I am a Research Intern at <a href="https://www.baai.ac.cn/en/" target="_blank">Beijing Academy of Artificial Intelligence(BAAI)</a>, advised by <a href="https://whatsname1991.github.io/" target="_blank">Prof. Chaozhuo Li</a>, focusing on <strong>Trustworthy AI</strong>.
+    Currently, I am a Research Intern at <a href="https://www.baai.ac.cn/en/" target="_blank">Beijing Academy of Artificial Intelligence(BAAI)</a>, advised by <a href="https://whatsname1991.github.io/" target="_blank">Prof. Chaozhuo Li</a>.
   </p>
   <p>
     My broader research interests include:
   </p>
   <ul>
+    <li><strong>Post-training</strong></li>
+    <li><strong>Self-Evolving</strong></li>
     <li><strong>Trustworthy AI</strong></li>
-    <li><strong>Agentic Reinforcement Learning</strong></li>
   </ul>
   <p>
     🚩 Seeking Opportunities: I am exploring <strong>2027 Fall PhD</strong> positions across the <strong>US/Singapore/Hong Kong</strong>. I am particularly open to <strong>remote RA</strong> opportunities to build early connections and foster research partnerships. If my background aligns with your group's interests, please feel free to reach out. I would welcome the chance to discuss potential synergies!
@@ -52,16 +53,27 @@ education:
   date: Sep. 2022 - Jun. 2026 (Expected)
 
 
-Internship Experience:
+internship_experience:
 - name: Beijing Academy of Artificial Intelligence (BAAI)
   logo: /assets/images/badges/BAAI.png
-  position: Research Intern, Trustworthy AI
+  position: >-
+    Research Intern <br/>
+    Trustworthy AI Group
   date: Dec. 2025 - Present
 
-Honors & Awards:
-- name: International Collegiate Programming Contest Asia Regional Contest (Hangzhou) Bronze medal 🥉
+awards:
+- name: International Collegiate Programming Contest Asia Regional Contest
+  position: >-
+    Hangzhou <br/>
+    Bronze medal🥉
   date: Dec. 2023
-- name: China Collegiate Programming Contest (Shenzhen) Bronze medal 🥉
+- name: China Collegiate Programming Contest
+  position: >-
+    Shenzhen <br/>
+    Bronze medal🥉
   date: Nov. 2023
-- name: International Collegiate Programming Contest Asia Regional Contest (Nanjing) Bronze medal 🥉
+- name: International Collegiate Programming Contest Asia Regional Contest
+  position: >-
+    Nanjing <br/>
+    Bronze medal🥉
   date: Nov. 2023
