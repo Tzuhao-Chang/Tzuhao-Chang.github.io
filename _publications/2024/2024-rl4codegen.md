@@ -3,7 +3,7 @@ title:          "Enhancing Code LLMs with Reinforcement Learning in Code Generat
 date:           2024-12-29 00:01:00 +0800
 selected:       true
 pub:            "ICLR 2026 Workshop LLM Reasoning"
-pub_date:       "2412.20367"
+pub_date:       ""
 cover:          /assets/images/covers/RL4codegen.jpg
 authors:
   - Junqiao Wang
