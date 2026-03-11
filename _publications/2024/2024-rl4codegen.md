@@ -1,8 +1,8 @@
 ---
-title:          "Enhancing Code LLMs with Reinforcement Learning in Code Generation: A Survey"
+title:          "Enhancing Code LLMs with Reinforcement Learning in Code Generation"
 date:           2024-12-29 00:01:00 +0800
 selected:       true
-pub:            "arXiv preprint"
+pub:            "ICLR 2026 Workshop LLM Reasoning"
 pub_date:       "2412.20367"
 cover:          /assets/images/covers/RL4codegen.jpg
 authors:
